@@ -9,5 +9,5 @@
 - Semplificare la creazione e la gestione degli Ordini di Servizio (ODS).
 - Fornire reportistica automatizzata (Excel) per il calcolo delle ore, la frequenza nelle zone e il riepilogo dei servizi.
 - Garantire l'integrità dei dati storici tramite un sistema di "soft delete" (eliminazione logica).
-### 3. Riferimento all'eseguibile
+### 4. Riferimento all'eseguibile
 [https://github.com/coli17bri/OdsExecutable](url)
